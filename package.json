@@ -5,7 +5,7 @@
   "repository": "https://github.com/kmaryam27/nextjs-ssr.git",
   "author": "k_maryam27 <k_maryam27@yahoo.com>",
   "scripts": {
-    "dev":"next -p 4000"
+    "dev":"next -p 3000"
   },
   "license": "MIT",
   "dependencies": {
