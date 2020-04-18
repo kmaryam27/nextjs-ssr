@@ -1,0 +1,13 @@
+{
+  "name": "nextjs-ssr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kmaryam27/nextjs-ssr.git",
+  "author": "k_maryam27 <k_maryam27@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^9.3.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
