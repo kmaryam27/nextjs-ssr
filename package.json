@@ -4,6 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/kmaryam27/nextjs-ssr.git",
   "author": "k_maryam27 <k_maryam27@yahoo.com>",
+  "scripts": {
+    "dev":"next"
+  },
   "license": "MIT",
   "dependencies": {
     "next": "^9.3.5",
